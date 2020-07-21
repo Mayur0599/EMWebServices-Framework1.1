@@ -1,0 +1,4 @@
+insert into employee(employee_id,name,gender,date_of_birth,is_indian,basic_salary,pan_card_number,aadhar_card_number,designation_code) values ('T01','Mayur',       'M','1999-08-05',true,50000.00,'AAECC6548C','836527507390',104);
+insert into employee(employee_id,name,gender,date_of_birth,is_indian,basic_salary,pan_card_number,aadhar_card_number,designation_code) values ('T02','Mansi',       'F','1998-06-02',true,45000.50,'AAECC6550B','736527508390',101);
+insert into employee(employee_id,name,gender,date_of_birth,is_indian,basic_salary,pan_card_number,aadhar_card_number,designation_code) values ('T04','Neha Gupta',  'F','1997-05-16',false,25000.00,'AAECC7848E','536527507670',103);
+insert into employee(employee_id,name,gender,date_of_birth,is_indian,basic_salary,pan_card_number,aadhar_card_number,designation_code) values ('T05','Unnati Jain', 'F','1997-11-19',true,40000.00,'AAECC6798A','936527507380',105);

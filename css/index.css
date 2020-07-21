@@ -1,0 +1,78 @@
+body
+{
+    background: linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('/em/images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height:100%;
+    color: whitesmoke;
+}
+html
+{
+    height:100%;
+}
+hr
+{
+    background: whitesmoke;
+}
+.error
+{
+    font-size: 14px;
+    text-align: right;
+    padding-right: 10px;
+    width:100%;
+    height: 20px;
+}
+
+.indexempDiv
+{
+margin:auto;
+padding-top:60px; 
+max-width:300px;
+}
+.empH
+{
+text-align: center;
+}
+.emphr
+{
+margin-bottom: 8px;
+}
+.empDiverror
+{
+text-align:center;
+}
+.emp-btn-Div
+{
+text-align:center;
+padding-top:20px;
+}
+.emp-btn
+{
+margin:0px 10px;
+}
+
+.indexadminDiv
+{
+margin:auto;
+padding-top:60px;
+max-width:300px;
+}
+.adminH
+{
+text-align: center;
+}
+.adminhr
+{
+margin-bottom: 8px;
+}
+.admin-btn-Div
+{
+text-align:center;
+padding-top:20px;
+}
+.admin-login-btn
+{
+margin:0px 10px;
+}
